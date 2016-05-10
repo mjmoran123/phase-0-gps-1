@@ -4,7 +4,12 @@
 [CNN](http://www.cnn.com)
 **bolding is like italics but twice. much like shouting**
 
-```add-command-log-1```
+```
+add-command-log-1
+there is some code in our code block
+```
+
+
 ![screenshot](http://imgur.com/re26PjL)
 
 
