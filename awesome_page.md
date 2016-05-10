@@ -1,0 +1,11 @@
+#GPS 1.1 Almost complete!!!
+##DBC for the win
+*so we are working on this through the internet*
+[CNN](http://www.cnn.com)
+**bolding is like italics but twice. much like shouting**
+
+```add-command-log-1```
+![screenshot](http://imgur.com/re26PjL)
+
+
+
