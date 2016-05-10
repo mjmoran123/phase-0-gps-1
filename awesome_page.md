@@ -5,7 +5,12 @@
 **bolding is like italics but twice. much like shouting**
 
 ```add-command-log-1```
+
+
 ![screenshot](http://imgur.com/re26PjL)
+
+
+adding more text to what we are trying to do.  small conflict indeed 
 
 
 
